@@ -1,0 +1,8 @@
+{
+  "name": "Grupo Aquiles",
+  "description": "Portal de excelencia gastronómica: Catering Toledo y Aquiles Gourmet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
